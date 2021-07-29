@@ -1,0 +1,32 @@
+/* Regular Style Start */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 48px;
+    font-weight: 600;
+}
+/* Regular Style Start */
+/* Top-Header Style Start */
+.text-color{
+    color: #E0E0E0;
+
+}
+.top-header{
+    background: #264653;
+}
+/* Top-Header Style End */
+
+.black-white-image{
+    filter: grayscale(100%);
+}
+.card p{
+    line-height: 32px;
+}
+.card-footer p{
+    font-weight: 600;
+    font-size: 14px;
+}
+.menus{
+    font-size: 14px;
+}
